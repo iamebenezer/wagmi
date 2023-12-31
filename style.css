@@ -2089,7 +2089,7 @@ html {
   
   :root {
     --black: black;
-    --white-smoke-2: rgba(245, 245, 245, .89);
+    --white-smoke-2: rgba(12, 12, 12, 0.89);
     --indian-red: #fd3358;
     --leftg: #00FFA3;
     --midg: #03E1FF;
